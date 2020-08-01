@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GdzieNaWrapy</string>
+    <string name="text">Gdzie się spotykamy na wrapy?</string>
+    <string name="button">Losuj</string>
+    <string name="reponse">We wtorek widzimy się u </string>
+    <string-array name="locations">
+        <item>Marty</item>
+        <item>Basi</item>
+        <item>Weroniki</item>
+    </string-array>
+</resources>
